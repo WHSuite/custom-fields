@@ -1,0 +1,17 @@
+{
+    "name": "whsuite/customfields",
+    "description": "Custom Fields handler for WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite Dev Team",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\CustomFields" : "src/"
+        }
+    }
+}
